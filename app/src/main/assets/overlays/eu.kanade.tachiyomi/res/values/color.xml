@@ -2,4 +2,6 @@
 <resources>
     <color name="colorPrimary">#ff000000</color>
     <color name="colorPrimaryDark">#ff000000</color>
+    <color name="material_grey_850">#ff000000</color>
+    <color name="dialog_amoled">#ff000000</color>
 </resources>
